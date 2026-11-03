@@ -1,3 +1,3 @@
 # agent
 
-Sandbox repository for dsh-superagent.
+Sandbox environment repository for dsh-superagent.
